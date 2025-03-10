@@ -1,0 +1,12 @@
+flask
+numpy
+opencv-python
+mediapipe
+ultralytics
+face_recognition
+pyaudio
+pyautogui
+keyboard
+pyperclip
+pygetwindow
+flask_mysqldb
